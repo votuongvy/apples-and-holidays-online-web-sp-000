@@ -18,6 +18,7 @@ holiday_hash = {
 
 def second_supply_for_fourth_of_july(holiday_hash)
   holiday_hash[:summer][:fourth_of_july][1]
+<<<<<<< HEAD
 end
 
 second_supply_for_fourth_of_july(holiday_hash)
@@ -63,3 +64,9 @@ end
   
   
   
+=======
+end
+
+second_supply_for_fourth_of_july(holiday_hash)
+
+>>>>>>> 72e725710413882a887e8321866d73ade25625a1
